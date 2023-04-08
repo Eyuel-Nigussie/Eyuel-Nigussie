@@ -2,7 +2,10 @@
 - 👀 I’m interested in conquering scalable, 100% secured app and software development. I am also interested in building systems that make life easy for everyone.
 - 💞️ I’m looking to collaborate on projects and/or build something that matters.
 - 📫 How to reach me eyuthedev@gmail.com
+[Alt Text]([https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif](https://media.giphy.com/media/WLhzPXdgN3paKEQsI9/giphy.gif))
+
 > I am an enthusiastic learning machine who can adapt to situations. I am extremely didcated person who enjoys what he do. Very Much!
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,bootstrap,cpp,codepen,css,deno,django,dynamodb,electron,fastapi,figma,firebase,github,gitlab,gradle,js,jquery,jest,laravel,linux,md,materialui,maven,mongodb,mysql,netlify,nginx,nodejs,openstack,php,postgres,postman,py,qt,sqlite,svelte,tailwind,threejs,vercel,vite,vue,xd" />
