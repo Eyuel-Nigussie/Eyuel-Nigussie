@@ -1,5 +1,5 @@
-![Alt Text](https://media.giphy.com/media/WLhzPXdgN3paKEQsI9/giphy.gif)
-
+<!-- ![Alt Text](https://media.giphy.com/media/WLhzPXdgN3paKEQsI9/giphy.gif)
+ -->
 > - 👋 Hi, I’m @Eyuel-Nigussie
 >- 👀 I’m interested in conquering scalable, 100% secured app and software development. I am also interested in building systems that make life easy for everyone.
 >- 💞️ I’m looking to collaborate on projects and/or build something that matters.
