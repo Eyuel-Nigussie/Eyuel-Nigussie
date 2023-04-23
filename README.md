@@ -11,6 +11,7 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,bootstrap,cpp,codepen,css,deno,django,dynamodb,electron,fastapi,figma,firebase,github,gitlab,gradle,js,jquery,jest,laravel,linux,md,materialui,maven,mongodb,mysql,netlify,nginx,nodejs,openstack,php,postgres,postman,py,qt,sqlite,svelte,tailwind,threejs,vercel,vite,vue,xd" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyuel-Nigussie)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eyuel-Nigussie)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyuel-Nigussie)](https://github.com/anuraghazra/github-readme-stats)
 ![eyuthedev](https://user-images.githubusercontent.com/105924760/213940591-624b39f3-b43a-4b31-8835-df7fcc001ea7.png)
 ![american](https://user-images.githubusercontent.com/105924760/214325528-29735dcf-fb42-4601-9dc8-63fef7ec0141.jpg) ![rfc](https://user-images.githubusercontent.com/105924760/214325555-17da44ac-b626-4552-81e2-410273e11f3d.jpg)
