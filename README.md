@@ -8,6 +8,8 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyuel-Nigussie&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyuel-Nigussie&theme=tokyonight)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eyuel-Nigussie)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://skillicons.dev">
