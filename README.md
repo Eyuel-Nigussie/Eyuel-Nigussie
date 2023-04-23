@@ -5,7 +5,8 @@
 >- 💞️ I’m looking to collaborate on projects and/or build something that matters.
 >- 📫 How to reach me eyuthedev@gmail.com
 > I am an enthusiastic learning machine who can adapt to situations. I am extremely didcated person who enjoys what he do. Very Much!
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyuel-Nigussie&count_private=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyuel-Nigussie)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eyuel-Nigussie)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://skillicons.dev">
