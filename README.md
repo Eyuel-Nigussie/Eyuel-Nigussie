@@ -3,7 +3,7 @@
 >- 👀 I’m interested in conquering scalable, 100% secured app and software development. I am also interested in building systems that make life easy for everyone.
 >- 💞️ I’m looking to collaborate on projects and/or build something that matters.
 >- 📫 How to reach me eyuthedev@gmail.com
-> I am an enthusiastic learning machine who can adapt to situations. I am extremely didcated person who enjoys what he do. Very Much!
+> I am an enthusiastic learning machine who can adapt to situations. I am extremely didcated person who enjoys what he does. Very Much!
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyuel-Nigussie&count_private=true)
