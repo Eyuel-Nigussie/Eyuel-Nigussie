@@ -5,7 +5,7 @@
 >- 👀 I’m interested in conquering scalable, 100% secure app and software development. I am also interested in building systems that make life easy for everyone.
 >- 💞️ I’m looking to collaborate on projects and/or build something that matters.
 >- 📫 How to reach me - eyuthedev@gmail.com
->- 
+
 >- When you hire me, 100% commitment, dedication, passion and enthusiasm is guaranteed.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyuel-Nigussie&count_private=true)
