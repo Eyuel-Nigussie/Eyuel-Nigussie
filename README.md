@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Eyuel-Nigussie&color=green)
 > - 👋 Hi, I’m @Eyuel-Nigussie
-> - I am an enthusiastic learning machine who can adapt to situations. I am **extremely** didcated person who enjoys what he does.
-
+> - I am an enthusiastic, continuous learner who enjoys what he does.
 >- 👀 I’m interested in conquering scalable, 100% secure app and software development. I am also interested in building systems that make life easy for everyone.
 >- 💞️ I’m looking to collaborate on projects and/or build something that matters.
 >- 📫 How to reach me - eyuthedev@gmail.com
