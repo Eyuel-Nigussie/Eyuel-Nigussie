@@ -3,7 +3,7 @@
 > - I am an enthusiastic, continuous learner who enjoys what he does.
 >- 👀 I’m interested in conquering scalable, 100% secure app and software development. I am also interested in building systems that make life easy for everyone.
 >- 💞️ I’m looking to collaborate on projects and/or build something that matters.
->- 📫 How to reach me - eyuthedev@gmail.com
+>- 📫 How to reach me - eyuelnigussie@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyuel-Nigussie&count_private=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyuel-Nigussie&theme=tokyonight) -->
