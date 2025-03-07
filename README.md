@@ -14,9 +14,5 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,bootstrap,cpp,codepen,css,deno,django,dynamodb,electron,fastapi,figma,firebase,github,gitlab,gradle,js,jquery,jest,laravel,linux,md,materialui,maven,mongodb,mysql,netlify,nginx,nodejs,openstack,php,postgres,postman,py,qt,sqlite,svelte,tailwind,threejs,vercel,vite,vue,xd" />
   </a>
 </p>
-![eyuthedev](https://user-images.githubusercontent.com/105924760/213940591-624b39f3-b43a-4b31-8835-df7fcc001ea7.png)
-![american](https://user-images.githubusercontent.com/105924760/214325528-29735dcf-fb42-4601-9dc8-63fef7ec0141.jpg)
-
-
 
 Danke!
